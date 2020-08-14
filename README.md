@@ -9,5 +9,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: Twitter - [@prats_deo](https://twitter.com/prats_deo) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love pizza 🍕🍕
+- ⚡ Fun fact: I love pizza 🍕🍕 and talk about theoretical Physics 
 
