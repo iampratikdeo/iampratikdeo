@@ -2,7 +2,6 @@
 ## Welcome to my GitHub Profile
 
 
-- 🔭 I’m currently working on my Blog and Todo List Web Apps
 - 🌱 I’m currently learning Full Stack development and AWS Asscoiate Developer
 - 👯 I’m looking to collaborate on Full Stack development
 - 🤔 I’m looking for help with Design
