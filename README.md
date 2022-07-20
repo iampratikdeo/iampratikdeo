@@ -6,7 +6,5 @@
 - 👯 I’m looking to collaborate on Full Stack development
 - 🤔 I’m looking for help with Design
 - 💬 Ask me about ...
-- 📫 How to reach me: Twitter - [@prats_deo](https://twitter.com/prats_deo) 
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love pizza 🍕🍕 and talk about theoretical Physics 
 
